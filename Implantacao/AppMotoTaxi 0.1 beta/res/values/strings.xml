@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppMotoTaxi</string>
+
+    <!-- Globais -->
+
+    
+    <!-- String Login -->
+    <string name="lbl_login">Login:</string>
+    <string name="lbl_senha">Senha:</string>
+    <string name="lbl_entrar">Entrar</string>
+    <string name="lbl_sair">Sair</string>
+    <string name="lbl_sobre">Sobre</string>
+    
+        <!-- criando mensagens utilizadas no APP -->
+    <string name="msg_sobre">Projeto MotoTaxiJA | \nTodos os Direitos reservados ao criador!
+        versao 1.0 disponivel Free por 2 meses</string>
+    <string name="msg_logout">Deseja Realmente Deslogar?</string>
+    <string name="msg_login_obg">Login Obrigatório</string>
+    <string name="msg_senha_obg">Senha Obrigatória</string>
+    <string name="msg_login_invalido">Usuário/Senha Inválidos!</string>
+        <string name="msg_login_sucesso">Login Efetuado com Sucesso!</string>
+    
+</resources>
